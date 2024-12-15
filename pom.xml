@@ -19,6 +19,11 @@
         <artifactId>spring-core</artifactId>
         <version>5.3.23</version> <!-- Choose the version that fits your needs -->
     </dependency>
+	<dependency>
+        <groupId>org.springframework</groupId>
+        <artifactId>spring-web</artifactId>
+        <version>5.3.23</version> <!-- You can choose the latest version -->
+    </dependency>
   </dependencies>
   <build>
     <finalName>01-maven-web-app</finalName>
