@@ -1,5 +1,5 @@
 # Ignore target folder (Maven build output)
-target/
+#target/
 
 # Ignore IDE project files
 .idea/
